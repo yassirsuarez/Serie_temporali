@@ -27,7 +27,6 @@ Il lavoro segue un approccio rigoroso suddiviso in fasi logiche:
 * **SARIMAX:** Estensione del modello con l'aggiunta di regressori esogeni (PM2.5 e Temperatura) per valutare l'impatto dei fattori esterni.
 * **Auto-Optimization:** Selezione automatica degli iperparametri tramite criteri di informazione (AIC/BIC).
 
-[Image of SARIMAX model architecture]
 
 ## 🚀 Requisiti
 Per eseguire l'analisi sono necessarie le seguenti librerie Python:
